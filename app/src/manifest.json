@@ -1,0 +1,14 @@
+{
+  "name": "当才当用",
+  "appid": "__UNI__DANGCAI",
+  "description": "当阳市科技经信商务局·当才当用",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    }
+  }
+}
