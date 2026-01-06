@@ -1,0 +1,22 @@
+{
+  "name": "dangcai-dangyong",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:h5": "uni",
+    "build:h5": "uni build -p h5",
+    "dev:mp-weixin": "uni -p mp-weixin",
+    "build:mp-weixin": "uni build -p mp-weixin"
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "latest",
+    "@dcloudio/uni-h5": "latest",
+    "@dcloudio/uni-mp-weixin": "latest",
+    "@dcloudio/uni-ui": "latest",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@dcloudio/vite-plugin-uni": "latest",
+    "vite": "^4.4.9"
+  }
+}

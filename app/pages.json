@@ -1,0 +1,82 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationBarTitleText": "当才当用",
+        "navigationBarBackgroundColor": "#0B72F0",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/policy/index",
+      "style": {
+        "navigationBarTitleText": "政策查询"
+      }
+    },
+    {
+      "path": "pages/classroom/index",
+      "style": {
+        "navigationBarTitleText": "企业课堂"
+      }
+    },
+    {
+      "path": "pages/gallery/index",
+      "style": {
+        "navigationBarTitleText": "企业画册"
+      }
+    },
+    {
+      "path": "pages/help/index",
+      "style": {
+        "navigationBarTitleText": "我要求助"
+      }
+    },
+    {
+      "path": "pages/procurement/index",
+      "style": {
+        "navigationBarTitleText": "我要采购"
+      }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    },
+    {
+      "path": "pages/subscribe/index",
+      "style": {
+        "navigationBarTitleText": "订阅消息"
+      }
+    }
+  ],
+  "tabBar": {
+    "color": "#6B7280",
+    "selectedColor": "#0B72F0",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/policy/index",
+        "text": "政策"
+      },
+      {
+        "pagePath": "pages/classroom/index",
+        "text": "课堂"
+      },
+      {
+        "pagePath": "pages/gallery/index",
+        "text": "画册"
+      },
+      {
+        "pagePath": "pages/profile/index",
+        "text": "我的"
+      }
+    ]
+  }
+}
